@@ -29,6 +29,7 @@ class App(tk.Tk):
 
 
 def main() -> None:
+    """Main function to start the application."""
     app = App()
     app.mainloop()
 
